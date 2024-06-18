@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="test.sql" type="DatabaseScript" editBeforeRun="true">
+    <script-file value="$PROJECT_DIR$/src/test/resources/test.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="48a11040-04ae-4659-a95e-4ae6700df86d" namespace="schema/&quot;KataProjectDB&quot;" />
+    <method v="2" />
+  </configuration>
+</component>
